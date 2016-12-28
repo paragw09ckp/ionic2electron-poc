@@ -1,6 +1,6 @@
 # Ionic 2 - Electron App
 
-This app accompanies the Ionic 2 components app embedded in Electron.
+This is a sample of an Ionic 2 components app embedded in Electron.
 
 ### Installation & Development
 
