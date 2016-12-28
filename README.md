@@ -52,7 +52,7 @@ https://forum.ionicframework.com/t/all-about-progressive-web-apps/52498
 
 Following are some of the websites that are developed using Ionic 2 to be used as pure mobile applications as well as standard websites.
 
-http://toodtattoo.com/#tattoo
-https://www.selio.com/
-http://ashpocketguides.hematology.org/#/app/home
-http://hct.bethematchclinical.org/#/app/home
+- http://toodtattoo.com/#tattoo
+- https://www.selio.com/
+- http://ashpocketguides.hematology.org/#/app/home
+- http://hct.bethematchclinical.org/#/app/home
